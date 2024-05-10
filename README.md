@@ -13,7 +13,8 @@
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/EdinburghNLP/awesome-hallucination-detection}}
 }
-```
+```///
+'/
 /////
 
 ## Papers and Summaries
